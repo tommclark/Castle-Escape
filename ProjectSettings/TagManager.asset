@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Knife
+  - Enemy
+  - Patroller
+  - Gem
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 43330773
+    locked: 0
+  - name: Foreground
+    uniqueID: 1129368595
+    locked: 0
+  - name: Player
+    uniqueID: 3003729981
+    locked: 0
+  - name: Ground
+    uniqueID: 1624465009
+    locked: 0
+  - name: UI
+    uniqueID: 2226870771
+    locked: 0
